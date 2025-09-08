@@ -21,7 +21,7 @@ The project demonstrates theoretical understanding, case study analysis, a fairn
 ---
 
 ### **Part 2: Case Study Analysis (40%)**
-📄 [CaseStudies.pdf](./CaseStudies.pdf)  
+📄 [CaseStudies.pdf](./Part2_Case_Studies.pdf)  
 - **Case 1: Amazon Hiring Tool** – source of bias, proposed fixes, fairness metrics  
 - **Case 2: Facial Recognition in Policing** – ethical risks, deployment policies  
 
@@ -30,8 +30,8 @@ The project demonstrates theoretical understanding, case study analysis, a fairn
 ### **Part 3: Practical Audit (25%)**
 📊 Files:  
 - Dataset: [compas-scores-two-years.csv](./compas-scores-two-years.csv)  
-- Notebook: [compas_analysis.ipynb](./compas_analysis.ipynb)  
-- Report: [COMPAS_Report.pdf](./COMPAS_Report.pdf)  
+- Notebook: [compas_analysis.ipynb](./Part3_COMPAS_Audit.ipynb)  
+- Report: [COMPAS_Report.pdf](./Part3_COMPAS_Audit_Report.pdf)  
 
 Performed a fairness audit of the **COMPAS Recidivism Dataset** using Python and fairness metrics.  
 - Findings: racial disparities in COMPAS scores, with African-American defendants disproportionately labeled as high-risk.  
@@ -55,28 +55,11 @@ Policy proposal for **ethical AI in healthcare**, including:
 
 ---
 
-## 📂 Repository Files  
-
-AI-Ethics-COMPAS-Audit/
-│
-├── compas-scores-two-years.csv # Dataset
-├── compas_analysis.ipynb # Bias audit notebook
-│
-├── Part1_Theory.pdf # Theoretical Q&A + principles
-├── CaseStudies.pdf # Case study analyses
-├── COMPAS_Report.pdf # Practical audit report
-├── Part4_Ethical_Reflection.pdf # Personal reflection
-├── BonusTask_Ethical_AI_in_Healthcare.pdf # Bonus policy proposal
-│
-├── Final_Assignment.pdf # Consolidated submission
-└── README.md # Assignment guide
-
-
 ## ⚙️ How to Reproduce Practical Audit  
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/AI-Ethics-COMPAS-Audit.git
+   git clone https://github.com/JEyanae/AI-Ethics-COMPAS-Audit.git
    cd AI-Ethics-COMPAS-Audit
 Open the notebook:
 
