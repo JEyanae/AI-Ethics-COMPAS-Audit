@@ -12,7 +12,7 @@ The project demonstrates theoretical understanding, case study analysis, a fairn
 ## 🎯 Assignment Structure  
 
 ### **Part 1: Theoretical Understanding (30%)**
-📄 [Part1_Theory.pdf](./Part1_Theory.pdf)  
+📄 [Part1_Theory.pdf](./Part1_Theoretical_AI_Ethics.pdf)  
 - Q1: Definition and examples of **algorithmic bias**  
 - Q2: Difference between **transparency** and **explainability** in AI  
 - Q3: Impact of **GDPR** on AI development  
