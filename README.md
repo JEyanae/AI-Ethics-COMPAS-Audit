@@ -61,17 +61,12 @@ Policy proposal for **ethical AI in healthcare**, including:
    ```bash
    git clone https://github.com/JEyanae/AI-Ethics-COMPAS-Audit.git
    cd AI-Ethics-COMPAS-Audit
+   
 Open the notebook:
-
-bash
-Copy code
 jupyter notebook compas_analysis.ipynb
 Or upload it to Google Colab.
 
 Install dependencies:
-
-bash
-Copy code
 pip install pandas matplotlib seaborn scikit-learn aif360
 🏆 Final Submission
 All parts (theory, case studies, practical audit, reflection, and bonus) have been merged into one document:
